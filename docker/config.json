@@ -1,6 +1,7 @@
 {
     "courseDirs": [
-        "/PrairieLearn/exampleCourse",
         "/course"
-    ]
+    ],
+    "postgresqlHost": "db",
+    "postgresqlPassword": "mysecretpassword"
 }
